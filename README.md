@@ -2,6 +2,8 @@
 
 Part of my **C-Engine Series**, where I merge mechanical engineering concepts with C programming to build real-world inspired mini tools.
 
+here is the project link :- https://github.com/OmkarRele09/C-Engine-Project-006/blob/main/speedingfinecheckerprogram.c
+
 ## 🔥 About
 This program checks the speed entered by the user and displays whether the driver is overspeeding or driving safely.  
 Inspired by real car safety systems and digital dashboards.
